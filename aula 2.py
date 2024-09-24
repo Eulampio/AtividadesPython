@@ -84,3 +84,9 @@ print (f"valor em Celsius {c:.2}")
 
 
 
+real f
+escreva("digite f")
+leia(f)
+
+
+f = float (input ("digite f"))
