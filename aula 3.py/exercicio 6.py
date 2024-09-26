@@ -13,5 +13,8 @@ cidade= input ("qual sua cidade?")
 estado= input ("qual seu estado?")
 os.system('cls')
 print ("+"+20*"-"+"+")
-print (f" \t\tCadastro\n\n  Eu {nome}, portadora do cpf{cpf},  ")
+print (f" \t\tCadastro\n\n  Eu {nome}, portadora do cpf{cpf}, e RG {rg}.
+       Nacida na data de {data}, do sexo {sexo}, pensando {peso}, tipo sanguineo {sangue},
+         com  a renda de R$ {renda}. Locada no endereço {endereco}.
+           Telefone para contato: {telefone}  ")
 print ("+"+ 20*"-"+"+")
